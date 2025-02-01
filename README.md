@@ -8,5 +8,6 @@ The setup on [Zeaburn](https://www.zeaburn.com) is really simple. You only need 
 4. **Deploy your project.**
 
 To view the deployed project, I recommend setting up a custom domain.
+Public Domain: [https://mcunext.zeabur.app/] (https://mcunext.zeabur.app/)
 
 **NOTE:** The free plan only allows you to deploy a project for 24 hours.

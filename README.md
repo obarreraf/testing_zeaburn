@@ -1,6 +1,6 @@
-# Deploy a Project on Zeaburn.com
+# Deploy a Project on [Zeaburn](https://www.zeaburn.com)
 
-The setup on Zeaburn.com is really simple. You only need to follow these steps:
+The setup on [Zeaburn](https://www.zeaburn.com) is really simple. You only need to follow these steps:
 
 1. **Create an account on Zeaburn.**
 2. **Create your project on Zeaburn.**
